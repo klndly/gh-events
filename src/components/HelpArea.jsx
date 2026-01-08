@@ -29,4 +29,6 @@ function HelpArea() {
   );
 }
 
+// Add comment
+
 export default HelpArea;
